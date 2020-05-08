@@ -1,13 +1,2 @@
 {
-  "response": [
-    {
-      "datetime": 1588832530,
-      "filename": "lineage-16.0-20200507-UNOFFICIAL-Z00xD.zip",
-      "id": "003de01d93f17a4b62d9a1340e6b355c",
-      "romtype": "UNOFFICIAL",
-      "size": 632161531,
-      "url": "https://github.com/Asus-MSM8916/lineage_OTA/releases/download/16.0_1/lineage-16.0-20200507-UNOFFICIAL-Z00xD.zip",
-      "version": "16.0"
-    }
-  ]
 }
