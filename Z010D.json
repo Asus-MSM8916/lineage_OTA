@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1586100449,
+      "filename": "lineage-17.1-20200405-UNOFFICIAL-Z010D.zip",
+      "id": "f199d5ff5fdb419433ca2e9f3abb6622",
+      "romtype": "UNOFFICIAL",
+      "size": 625082088,
+      "url": "https://github.com/Asus-MSM8916/lineage_OTA/releases/download/17.1_1.3/lineage-17.1-20200405-UNOFFICIAL-Z010D.zip",
+      "version": "17.1"
+    }
+  ]
+}
