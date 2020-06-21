@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1591846775,
-      "filename": "lineage-17.1-20200611-UNOFFICIAL-Z00xD.zip",
-      "id": "e0d577fc9f0d0c123186f716db807c16",
+      "datetime": 1592626589,
+      "filename": "lineage-17.1-20200620-UNOFFICIAL-Z00xD.zip",
+      "id": "78b5767a3ff120eb081fe25ab5119cbb",
       "romtype": "UNOFFICIAL",
-      "size": 917126664,
-      "url": "https://github.com/Asus-MSM8916/lineage_OTA/releases/download/17.1-Z00xD_1.4/lineage-17.1-20200611-UNOFFICIAL-Z00xD.zip",
+      "size": 936204303,
+      "url": "https://github.com/Asus-MSM8916/lineage_OTA/releases/download/17.1-Z00xD_1.5/lineage-17.1-20200620-UNOFFICIAL-Z00xD.zip",
       "version": "17.1"
     }
   ]
